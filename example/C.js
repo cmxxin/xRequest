@@ -1,3 +1,3 @@
 export const CommitC = () => {
-  console.log('commit C')
+  console.log('commit C...')
 }
